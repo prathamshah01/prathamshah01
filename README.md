@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Shah</h1>
 
 <h3 align="center">A passionate Application and Full Stack developer who enjoyes learning other technologies when required</h3>
-<p align="right"> <image height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center"> <image height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Advance Android development**
 
